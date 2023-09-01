@@ -1,0 +1,6 @@
+pandas==2.0.2
+matplotlib==3.7.2
+flexitext==0.2.0
+scipy==1.11.2
+jupyterlab==4.0.5
+
